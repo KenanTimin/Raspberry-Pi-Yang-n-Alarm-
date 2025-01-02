@@ -1,1 +1,1 @@
-I have gained completed understading and control over Raspberry Pi and it's function with this project. It functions a flame sensor and a buzzer in order to sound the alarm and send a mail to the owner.
+I have gained complete understading and control over Raspberry Pi and it's function with this project. It functions a flame sensor and a buzzer in order to sound the alarm and send a mail to the owner.
